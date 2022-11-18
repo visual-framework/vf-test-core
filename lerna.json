@@ -1,0 +1,13 @@
+{
+    "npmClient": "yarn",
+    "packages": [
+      "components/**/**"
+    ],
+    "command": {
+      "version": {
+        "allowBranch": "develop"
+      }
+    },
+    "version": "independent"
+  }
+  

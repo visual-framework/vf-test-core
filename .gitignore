@@ -1,0 +1,16 @@
+.sass-cache/
+*.css.map
+node_modules/
+*.log
+.DS_Store
+build
+public
+components/**/*.css
+*.tgz
+backstop_data/html_report/
+bitmaps_test/
+temp
+package.variables.scss
+*.precompiled.js
+*.code-workspace
+.yarn

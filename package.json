@@ -1,0 +1,7 @@
+{
+  "name": "vf-test-core",
+  "packageManager": "yarn@3.2.1",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
